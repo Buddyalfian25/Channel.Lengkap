@@ -8,3 +8,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/413
 http://tvkuonline.my.id:25461/riyad/riyad/414
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GRUP", ID: Cinemax
 http://tvkuonline.my.id:25461/riyad/riyad/424
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:0 tvg-id="KidsTV.Id" tvg-logo="https://i.postimg.cc/MTVNQXts/20230918-191944.jpg" group-title="KIDS",Kids TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
